@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://icahn.mssm.edu/', target="_blank">Icahn School of Medicine at Mount Sinai</a>
 
 profile:
   align: right
