@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Molecular Heterogeneity & Network Biology
-description: with background image
+description: Modeling high-throughput data to generate novel insights into myeloma biology
 img: assets/img/network.png
 importance: 1
 category: work
