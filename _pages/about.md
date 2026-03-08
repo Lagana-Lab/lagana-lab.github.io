@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Computational Cancer Genomics and Precision Oncology
+**Computational Cancer Genomics and Precision Oncology**
 
 We develop computational methods and models that pull together genomic, transcriptomic, single-cell, and clinical data to track how multiple myeloma changes and reacts to therapy.<&nbsp;> 
 The results help us chart tumor heterogeneity, find new drug targets, and give physicians AI-driven treatment options tailored to each patient.
