@@ -8,9 +8,24 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Molecular Heterogeneity & Network Biology
+Multiple myeloma is not one disease but many, driven by diverse genetic and transcriptional events that shape prognosis and treatment response. Our goal is to dissect this heterogeneity, refine risk stratification, and uncover the mechanisms that drive myeloma onset and progression. Ongoing work is integrating single-cell data into the same framework so we can track subclonal niches and their interactions with the tumour microenvironment, further sharpening patient stratification and generating new mechanistic hypotheses.
+
+MMNet
+We integrated genomic, transcriptomic, and clinical data from 450 newly diagnosed patients to construct a disease network that links alterations to stage, clonality, and early progression. We validated CDC42BPA and CLEC11A as new regulators and derived a four-gene signature that stratifies high-risk myeloma. [more]
+
+MM-PSN
+We built the first multi-omics patient-similarity network for 655 myeloma cases, integrating five data layers to define 12 molecular subgroups. Our model revealed that t(4;14) with 1q gain marks an ultra-high-risk subset and showed 1q gain alone outperforms ISS/R-ISS for relapse prediction. [more]
+
+Ongoing projects
+Deep-learning tumor/TME fusion
+We are developing a network model that merges bulk genomics with single-cell profiles from both tumor and micro-environment. The model aims to quantify how TME features shift patient sub-types and risk, highlighting immune and stromal targets for novel therapies.
+
+​
+
+Single-cell clonal reconstruction workflow
+
+Our multi-modal pipeline integrates gene expression, inferred CNVs, and mutation signals from scRNA-seq to reconstruct patient clonal landscapes. We are now applying it in a high-risk cohort to track subclone dynamics tied to relapse and therapy resistance.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
