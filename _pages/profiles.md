@@ -17,7 +17,7 @@ profiles:
       <p>ALESSANDRO LAGANÀ, PHD</p>
       <p>Principal Investigator</p>
   - align: left
-    image: prof_pic.jpg
+    image: junia_small.jpg
     content: about_junia.md
     image_circular: false # crops the image to make it circular
     more_info: >
