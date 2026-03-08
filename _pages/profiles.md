@@ -16,6 +16,7 @@ profiles:
     more_info: >
       <p>ALESSANDRO LAGANÀ, PHD</p>
       <p>Principal Investigator</p>
+      
   - align: left
     image: junia_small.jpg
     content: about_junia.md
