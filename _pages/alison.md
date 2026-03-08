@@ -1,0 +1,3 @@
+With a background in biomedical science, Alison's projects are focused on multi-omic data integration and analysis. Her work is centered on discovering novel therapeutic approaches for multiple myeloma patients by leveraging patient networks and advancing precision medicine. Alison is also deeply committed to harnessing the power of machine learning and artificial intelligence to drive breakthroughs in cancer biology and accelerate the discovery of innovative treatment approaches.
+
+Outside of work, she enjoys nature walks, playing golf, as well as diving into a good book during her spare time.
