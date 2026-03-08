@@ -26,29 +26,29 @@ profiles:
       <p>Post-doctoral Fellow</p>
 
   - align: right
-      image: Alessia.jpg
-      content: about_alessia.md
-      image_circular: false # crops the image to make it circular
-      more_info: >
-        <p>ALESSIA D'ANNA, PHD</p>
-        <p>Post-doctoral Fellow</p>
+    image: Alessia.jpg
+    content: about_alessia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>ALESSIA D'ANNA, PHD</p>
+      <p>Post-doctoral Fellow</p>
         
-    - align: left
-      image: Ali.jpg
-      content: about_ali.md
-      image_circular: false # crops the image to make it circular
-      more_info: >
-        <p>MUJAHID ALI QUIDWAI, MSc</p>
-      <p>Associate Computational Scientist</p>
+  - align: left
+    image: Ali.jpg
+    content: about_ali.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>MUJAHID ALI QUIDWAI, MSc</p>
+    <p>Associate Computational Scientist</p>
 
-    - align: right
-      image: Alison.jpg
-      content: about_alison.md
-      image_circular: false # crops the image to make it circular
-      more_info: >
-        <p>ALISON PARK, MSc</p>
-        <p>Bioinformatician I</p>
-        
+  - align: right
+    image: Alison.jpg
+    content: about_alison.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>ALISON PARK, MSc</p>
+      <p>Bioinformatician I</p>
+      
 ---
 
 
