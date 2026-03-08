@@ -39,7 +39,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>MUJAHID ALI QUIDWAI, MSc</p>
-    <p>Associate Computational Scientist</p>
+      <p>Associate Computational Scientist</p>
 
   - align: right
     image: Alison.jpg
