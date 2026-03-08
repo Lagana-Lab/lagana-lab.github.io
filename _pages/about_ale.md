@@ -1,4 +1,0 @@
-Alessandro is an Assistant Professor of Oncological Sciences and Genetics and Genomic Sciences at the Icahn School of Medicine at Mount Sinai.  His research interests lie primarily in the area of integrative cancer genomics, cancer network biology and precision oncology, with particular focus on Multiple Myeloma, a malignancy of bone marrow plasma cells.
-
-Alessandro achieved his MS degree in Computer Science and PhD in Biology, Human Genetics and Bioinformatics at the University of Catania (Italy), under the supervision of Alfredo Ferro, and completed his Post-Doctoral studies in Carlo Croce's Lab at The Ohio State University in Columbus, OH, where his research focused primarily on microRNA.
-
