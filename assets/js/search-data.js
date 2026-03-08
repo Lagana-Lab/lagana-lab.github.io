@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-molecular-heterogeneity-amp-network-biology",
           title: 'Molecular Heterogeneity &amp;amp; Network Biology',
-          description: "with background image",
+          description: "Modeling high-throughput data to generate novel insights into myeloma biology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
