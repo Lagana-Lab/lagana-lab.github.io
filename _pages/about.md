@@ -13,7 +13,7 @@ profile:
     <p>1470 Madison Avenue, Rm 5-107</p>
     <p>New York, NY 10029</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
