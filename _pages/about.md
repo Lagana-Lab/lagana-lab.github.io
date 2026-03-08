@@ -29,7 +29,8 @@ latest_posts:
 
 Computational Cancer Genomics and Precision Oncology
 
-We develop computational methods and models that pull together genomic, transcriptomic, single-cell, and clinical data to track how multiple myeloma changes and reacts to therapy. The results help us chart tumor heterogeneity, find new drug targets, and give physicians AI-driven treatment options tailored to each patient.
+We develop computational methods and models that pull together genomic, transcriptomic, single-cell, and clinical data to track how multiple myeloma changes and reacts to therapy.<&nbsp;> 
+The results help us chart tumor heterogeneity, find new drug targets, and give physicians AI-driven treatment options tailored to each patient.
 
 ![Lagana Lab](assets/img/lab_logo.png)
 
