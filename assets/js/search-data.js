@@ -419,9 +419,9 @@ ninja.data = [{
           description: "Defining drivers of relapse and resistance to improve outcomes in high-risk myeloma",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-drivers-of-progression-resistance-amp-high-risk-disease",
-          title: 'Drivers of Progression, Resistance &amp;amp; High-Risk Disease',
-          description: "Defining drivers of relapse and resistance to improve outcomes in high-risk myeloma",
+            },},{id: "projects-precision-oncology-platforms-amp-ai-enabled-decision-support",
+          title: 'Precision Oncology Platforms &amp;amp; AI-Enabled Decision Support',
+          description: "Translating genomic data into actionable treatment decisions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
