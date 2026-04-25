@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Drivers of Progression, Resistance & High-Risk Disease
-description: Modeling high-throughput data to generate novel insights into myeloma biology
-img: assets/img/network.png
+description: Defining drivers of relapse and resistance to improve outcomes in high-risk myeloma
+img: assets/img/drivers_hr.png
 importance: 1
 category: work
 related_publications: true
