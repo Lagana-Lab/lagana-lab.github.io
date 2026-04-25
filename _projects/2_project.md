@@ -20,6 +20,7 @@ RNA-seq from 100 BOSTON-study samples yielded a WNT10A-DUSP1-ETV7 signature that
 **Germline predisposition to myeloma**
 Germline exomes from 1,681 patients showed that 8–11 % carry pathogenic variants, mainly in DNA-repair genes; BRCA1/2 PGVs confer 4- to 7-fold higher myeloma risk. Carriers present younger and benefit more from high-dose melphalan, supporting genetic testing at diagnosis.
 
+
 **Ongoing projects**
 
 **Single-cell Atlas of High-Risk Myeloma**
@@ -36,8 +37,5 @@ We are building a single-cell RNA atlas of high-risk myeloma to resolve intratum
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_2_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 
