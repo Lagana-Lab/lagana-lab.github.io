@@ -424,9 +424,9 @@ ninja.data = [{
           description: "Translating genomic data into actionable treatment decisions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-micro-environment-immunotherapy-amp-digital-biomarkers",
+          title: 'Micro-Environment, Immunotherapy &amp;amp; Digital Biomarkers',
+          description: "Understanding immune and microenvironmental determinants of immunotherapy response and toxicity",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
