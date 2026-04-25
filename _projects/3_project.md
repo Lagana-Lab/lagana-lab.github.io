@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Drivers of Progression, Resistance & High-Risk Disease
-description: Defining drivers of relapse and resistance to improve outcomes in high-risk myeloma
+title: Precision Oncology Platforms & AI-Enabled Decision Support
+description: Translating genomic data into actionable treatment decisions
 img: assets/img/precision_onc.png
 importance: 1
 category: work
