@@ -1,81 +1,43 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Drivers of Progression, Resistance & High-Risk Disease
+description: Modeling high-throughput data to generate novel insights into myeloma biology
+img: assets/img/network.png
+importance: 1
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Drivers of Progression, Resistance & High-Risk Disease**
+Early relapse and drug resistance remain the main obstacles to long-term survival in myeloma. We have shown that chromosome 1q gain drives venetoclax failure, identified a three-gene expression signature that predicts selinexor benefit, and demonstrated that germline DNA-repair variants modify myeloma risk and treatment outcome. We are  now assembling a single-cell atlas of more than 150 high-risk patients to chart tumor clones alongside their immune- and stroma-cell compartments, trace the signals that sustain aggressive disease, and derive combination therapies for testing.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Predictors of response to Venetoclax**
+RNA-seq of relapsed patients identified a 6-gene score that stratifies venetoclax response and confirmed 1q-driven MCL1 expression as a resistance factor. CDK7 inhibition lowered MCL1 and restored venetoclax sensitivity in 1q-gain cell models, supporting a combination strategy.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**A three-gene signature of response to Selinexor**
+RNA-seq from 100 BOSTON-study samples yielded a WNT10A-DUSP1-ETV7 signature that predicts depth and duration of response to selinexor. The signature was validated in two independent myeloma cohorts and in glioblastoma, suggesting a shared interferon-mediated mechanism.
+
+**Germline predisposition to myeloma**
+Germline exomes from 1,681 patients showed that 8–11 % carry pathogenic variants, mainly in DNA-repair genes; BRCA1/2 PGVs confer 4- to 7-fold higher myeloma risk. Carriers present younger and benefit more from high-dose melphalan, supporting genetic testing at diagnosis.
+
+**Ongoing projects**
+
+**Single-cell Atlas of High-Risk Myeloma**
+We are building a single-cell RNA atlas of high-risk myeloma to resolve intratumor heterogeneity, define the bone-marrow microenvironment features that mark aggressive disease, and map the communication between high-risk clones and their immune and stromal neighbors. By integrating these layers, we aim to uncover actionable signaling routes and propose combination therapies for patients who currently lack effective options.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_2_1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_2_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_2_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
