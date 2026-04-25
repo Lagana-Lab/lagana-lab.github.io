@@ -1,80 +1,47 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Micro-Environment, Immunotherapy & Digital Biomarkers
+description: Understanding immune and microenvironmental determinants of immunotherapy response and toxicity
+img: assets/img/immuno_header.png
+importance: 1
+category: work
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Micro-Environment, Immunotherapy & Digital Biomarkers**
+The success of CAR-T and bispecific antibodies depends on both the T cells and the bone-marrow environment. We profile immune subsets, cytokines and even wearable-device data to understand and predict treatment outcomes and toxicities. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Determinants of sustained response to CAR T**
+We performed CITE-seq, CyTOF, and cytokine profiling of MM patients who received CAR T therapy, linking durable responses (>5 years) to early expansion of CD4 and CD8 central-memory CAR-T cells, increased diversity in TCR repertoire, and low myeloid-derived suppressor cell levels. [more]
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Immune correlates of response to Talquetamab**
+Multi-omics analysis of Talquetamab-treated patients showed higher baseline GPRC5D expression and CD8 effector-memory T-cells predict deeper, longer responses. In vitro assays revealed that combined PD-1 + Tim-3 blockade doubles Tal-mediated cytotoxicity, pointing to a rational resistance-mitigation strategy. [more]
+
+**Wearable devices to predict CRS in CAR T therapy**
+Analysis of continuous vitals from wearable devices augmented with cytokine panels in CAR-T recipients detected Cytokine Release Syndrome onset a median 7 hours before nurse detection, with 80–85 % prediction accuracy. This demonstrates feasibility of outpatient monitoring when combined with proteomic markers like IFN-γ.
+
+**CAR T-related lymphoma in MM patient**
+We recently described a clonal CAR+ peripheral T-cell lymphoma arising six months post anti-BCMA CAR-T. WGS found a TET2-mutant clone and a CAR insertion disrupting TIA1. Complete remission was achieved with anti-CCR4 therapy, highlighting need to surveil clonal hematopoiesis and offering a targeted salvage path.
+
+
+**Ongoing projects**
+
+**Spatial Profiling of Extra-Medullary Myeloma**
+We are applying multiplex spatial transcriptomics and proteomics to post-immunotherapy lesions to pinpoint drug-protected niches and new targets that could prevent or treat off-marrow spread.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_4_1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_4_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_4_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_4_4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
