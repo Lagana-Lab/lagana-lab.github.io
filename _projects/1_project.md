@@ -17,7 +17,8 @@ We integrated genomic, transcriptomic, and clinical data from 450 newly diagnose
 **MM-PSN**.
 We built the first multi-omics patient-similarity network for 655 myeloma cases, integrating five data layers to define 12 molecular subgroups. Our model revealed that t(4;14) with 1q gain marks an ultra-high-risk subset and showed 1q gain alone outperforms ISS/R-ISS for relapse prediction. [more]
 
-**Ongoing projects**<&nbsp;><&nbsp;>
+**Ongoing projects**
+
 **Deep-learning tumor/TME fusion**.
 We are developing a network model that merges bulk genomics with single-cell profiles from both tumor and micro-environment. The model aims to quantify how TME features shift patient sub-types and risk, highlighting immune and stromal targets for novel therapies.
 
@@ -36,8 +37,4 @@ Our multi-modal pipeline integrates gene expression, inferred CNVs, and mutation
         {% include figure.liquid loading="eager" path="assets/img/project_1_3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-
 
